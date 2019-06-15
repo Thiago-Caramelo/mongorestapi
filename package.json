@@ -4,7 +4,6 @@
   "description": "This is a sample server Petstore server",
   "main": "index.js",
   "scripts": {
-    "prestart": "npm install",
     "start": "node index.js"
   },
   "keywords": [
