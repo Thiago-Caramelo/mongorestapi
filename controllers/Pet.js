@@ -1,4 +1,3 @@
-const utils = require('../utils/writer.js');
 const Pet = require('../service/PetService');
 
 module.exports.addPet = function addPet(req, res) {
